@@ -39,9 +39,9 @@ Today we will learn:
 
 ### STEP 1: What is Angular/SPA Demo
 
-#### Location: URL to deployed website TSK
+#### Location: https://book-it-course-app.herokuapp.com/
 
-- Show them the project we will be building throughout the course.
+- Show the project we will be building throughout the course.
 
 - Note how the refresh bar never changes. This is a SPA!
 
