@@ -191,4 +191,4 @@ _Ensure your development ng serve process is still running. Keep this running un
 
 - [CLI Overview and Command Reference](https://angular.io/cli)
 
-- [Our Group Github Repository](TSK)
+- [Our Group Github Repository Notes](https://github.com/WilderDev/Angular-Bootcamp_Students-Notes)
